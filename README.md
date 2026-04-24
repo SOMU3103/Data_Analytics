@@ -158,22 +158,7 @@ June,23000,6000,South
 
 ---
 
-## 📸 Dashboard Preview
 
-<div align="center">
-
-| Feature | Preview |
-|:-------:|:-------:|
-| 🖥️ Main Window | ![Main](https://placehold.co/500x300/1a1a2e/00d4ff?text=📊+Main+Dashboard+Window&font=montserrat) |
-| 📁 Data Preview | ![Preview](https://placehold.co/500x300/16213e/00ff88?text=📁+CSV+Data+Preview+Window&font=montserrat) |
-| 📊 Chart Output | ![Chart](https://placehold.co/500x300/0f3460/ff6b6b?text=📈+Chart+Generated+View&font=montserrat) |
-| 🌡️ Heatmap | ![Heatmap](https://placehold.co/500x300/533483/ffd700?text=🌡️+Correlation+Heatmap&font=montserrat) |
-
-> 📷 *Replace placeholders with actual screenshots of your app for best results!*
-
-</div>
-
----
 
 ## 🤝 Contributing
 
